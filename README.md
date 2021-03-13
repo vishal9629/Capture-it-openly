@@ -8,11 +8,7 @@ This has been achieved using **Semantic Segmentation,Floodfill Function and GANS
 **Our Approach:**
 >_We trained a semantic segmentation model that automatically creates the mask over the subjects of the image that improves user-experience_
 
-![Our Model's output](https://i.postimg.cc/0rR1ffZ0/unknown.png)
-
 >_Applied floodfill function on our model’s output that helps the user to keep the main subject of the image._
-
-![Floodfill](https://i.postimg.cc/SNCftrDY/merge-from-ofoct.jpg)
 
 >_Currently,we are working on data set of CGANS Model_
 
